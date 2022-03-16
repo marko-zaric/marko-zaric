@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marko
-- 👀 I’m interested in ML, Deep Learing, Singal Processing, CFD and Web design using Django and Bootstrap
+- 👀 I’m interested in ML, Deep Learning, Reinforcement Learning, Signal Processing and Scientific Computing
 
 <!---
 m-zaric/m-zaric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
