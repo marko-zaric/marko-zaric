@@ -8,11 +8,9 @@
     
     
 If you want to contact me check out:
-- https://iis.uibk.ac.at/people/marko
- 
-or
-
 - https://www.linkedin.com/in/marko-zaric-570b8b194/
+- https://iis.uibk.ac.at/people/marko
+
 
 <!---
 m-zaric/m-zaric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
