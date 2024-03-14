@@ -2,8 +2,6 @@
 - 👀 I’m interested in:
     - Machine Learning for Robotics
     - Fancy Deep Learning Architectures
-    - Causal AI
-    - Commonsense AI
     - Numerical Mathematics
     
     
