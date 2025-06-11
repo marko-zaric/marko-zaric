@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Marko
 - 👀 I’m interested in:
+    - Reinforcement Learning and Control    
     - Machine Learning for Robotics
     - Fancy Deep Learning Architectures
     - Numerical Mathematics
