@@ -6,9 +6,7 @@
     - Numerical Mathematics
     
     
-If you want to contact me check out:
-- https://www.linkedin.com/in/marko-zaric-570b8b194/
-- https://iis.uibk.ac.at/people/marko
+If you want to contact me check out my website: www.markozaric.com
 
 
 <!---
